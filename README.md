@@ -1,3 +1,4 @@
 # React + Vite
 
-original: zentry[zentry.com]
+[original: zentry](https://zentry.com)
+
